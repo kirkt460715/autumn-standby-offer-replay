@@ -1,0 +1,4 @@
+policy,state,effective_at,ordering,expiry_minutes,max_regular_wait_minutes,regular_floor
+legacy,used,2026-11-01T00:00:00+08:00,logged_priority,10,75,0.2
+A,proposed,2026-12-05T09:00:00+08:00,protected_first,8,55,0.25
+B,proposed,2026-12-05T09:00:00+08:00,longest_wait,16,45,0.3
