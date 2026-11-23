@@ -1,0 +1,5 @@
+policy,approvable,pilot,reasons,ordering,expiry_minutes,max_regular_wait_minutes,regular_floor,effective_at,request,family,slot,seats,wait_class,wait_minutes,eligible,reasons,reason_text
+A,no,yes,WAIT_CAP,protected_first,8,55,0.25,2026-12-05T09:00:00+08:00,YN1,FN1,NEXT-B,2,regular,56.0,False,WAIT_CAP,普通候补等待时长超过该政策允许的最长等待分钟数
+A,no,yes,,protected_first,8,55,0.25,2026-12-05T09:00:00+08:00,YN2,FN2,NEXT-A,4,protected,55.0,True,,
+B,no,yes,WAIT_CAP,longest_wait,16,45,0.3,2026-12-05T09:00:00+08:00,YN1,FN1,NEXT-B,2,regular,56.0,False,WAIT_CAP,普通候补等待时长超过该政策允许的最长等待分钟数
+B,no,yes,,longest_wait,16,45,0.3,2026-12-05T09:00:00+08:00,YN2,FN2,NEXT-A,4,protected,55.0,True,,

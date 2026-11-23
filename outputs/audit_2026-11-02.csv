@@ -1,0 +1,2 @@
+day,release_event,freed_slot,seats,freed_by_family,basis_offer,released_at,valid,reason,acquired_by_offer,acquired_by_family,acquired_request,gate_entry
+2026-11-02,E00F,W00A,2,F000,P000,2026-11-02T09:05:00+08:00,True,,P001,F002,Y002,

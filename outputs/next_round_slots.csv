@@ -1,0 +1,3 @@
+slot,capacity,priority_class,base_orders,grandfathered_holds,free_at_effective,regular_reserve_seats,protected_headroom
+NEXT-A,8,ordinary,2,0,6,2,6
+NEXT-B,9,ordinary,4,2,3,3,6

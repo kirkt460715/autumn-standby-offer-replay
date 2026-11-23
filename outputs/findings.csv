@@ -1,0 +1,17 @@
+severity,code,message,refs
+warn,gate_unreconciled,验票 G01B: 家庭 F012 在 W01B 的 2 人无法与确认报价或原始订单对账,G01B
+warn,gate_unreconciled,验票 G02B: 家庭 F022 在 W02B 的 2 人无法与确认报价或原始订单对账,G02B
+warn,gate_unreconciled,验票 G04B: 家庭 F042 在 W04B 的 2 人无法与确认报价或原始订单对账,G04B
+warn,gate_unreconciled,验票 G05B: 家庭 F052 在 W05B 的 2 人无法与确认报价或原始订单对账,G05B
+warn,gate_unreconciled,验票 G07B: 家庭 F072 在 W07B 的 2 人无法与确认报价或原始订单对账,G07B
+warn,gate_unreconciled,验票 G08B: 家庭 F082 在 W08B 的 2 人无法与确认报价或原始订单对账,G08B
+warn,gate_unreconciled,验票 G10B: 家庭 F102 在 W10B 的 2 人无法与确认报价或原始订单对账,G10B
+warn,gate_unreconciled,验票 G11B: 家庭 F112 在 W11B 的 2 人无法与确认报价或原始订单对账,G11B
+warn,gate_unreconciled,验票 G13B: 家庭 F132 在 W13B 的 2 人无法与确认报价或原始订单对账,G13B
+warn,gate_unreconciled,验票 G14B: 家庭 F142 在 W14B 的 2 人无法与确认报价或原始订单对账,G14B
+warn,gate_unreconciled,验票 G16B: 家庭 F162 在 W16B 的 2 人无法与确认报价或原始订单对账,G16B
+warn,gate_unreconciled,验票 G17B: 家庭 F172 在 W17B 的 2 人无法与确认报价或原始订单对账,G17B
+warn,gate_unreconciled,验票 G19B: 家庭 F192 在 W19B 的 2 人无法与确认报价或原始订单对账,G19B
+warn,gate_unreconciled,验票 G20B: 家庭 F202 在 W20B 的 2 人无法与确认报价或原始订单对账,G20B
+warn,gate_unreconciled,验票 G22B: 家庭 F222 在 W22B 的 2 人无法与确认报价或原始订单对账,G22B
+warn,gate_unreconciled,验票 G23B: 家庭 F232 在 W23B 的 2 人无法与确认报价或原始订单对账,G23B

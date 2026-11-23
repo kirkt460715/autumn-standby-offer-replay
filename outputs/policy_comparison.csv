@@ -1,0 +1,4 @@
+policy,decisions,supported_candidates,unsupported_candidates,chain_candidates,observed_accepts,observed_declines,not_delivered_kept_separate,delivery_opportunities,accept_seats_low,accept_seats_high,accept_seats_point,observed_share,bound_width,pilot,pilot_reasons
+A,24,96,0,0,4,2,1,24.0,8.0,44.0,26.0,0.0625,36.0,yes,SLICE_TOO_SMALL|UNOBSERVED_PREFERENCE
+B,24,96,0,0,0,1,2,24.0,0.0,69.0,34.5,0.0104,69.0,yes,SLICE_TOO_SMALL|UNOBSERVED_PREFERENCE
+legacy,24,96,0,0,8,6,4,24.0,4.75,56.5,30.625,0.1458,51.75,yes,SLICE_TOO_SMALL|UNOBSERVED_PREFERENCE
